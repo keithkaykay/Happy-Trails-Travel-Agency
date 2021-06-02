@@ -1,5 +1,5 @@
-h1 {
-  color: blue;
+header{
+  color: #f7325e;
   text-align: center;
   font-size: 25px;
   text-decoration: underline;
@@ -9,4 +9,14 @@ h1 {
 }
 .spike{
   color: yellowgreen;
+}
+.one{
+  color: maroon;
+  font-size: 25px;
+  text-decoration: underline;
+}
+.two{
+  color: maroon;
+  font-size: 25px;
+  text-decoration: underline;
 }
